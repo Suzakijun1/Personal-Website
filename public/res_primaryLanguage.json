@@ -85,7 +85,8 @@
       "title": "Florida International University",
       "years": "2023 - present",
       "mainTech": ["Graduate"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "icon": "fas fa-user-graduate"
     },
     {
       "company": "Information Security",
@@ -102,21 +103,24 @@
         ".NET Core",
         "SignalR",
         "Angular Material"
-      ]
+      ],
+      "icon": "fas fa-user-graduate"
     },
     {
       "company": "Assistant Project Manager",
       "title": "Complete Property Development",
       "years": "2020 - 2022",
       "mainTech": ["Employment"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "icon": "fas fa-trophy"
     },
     {
       "company": "Integrative Animal Biology",
       "title": "University of South Florida",
       "years": "05.2015 - 03.2020",
       "mainTech": ["Undergraduate"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "icon": "fas fa-user-graduate"
     }
   ]
 }
