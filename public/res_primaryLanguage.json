@@ -81,10 +81,17 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Network Security",
+      "title": "Florida International University",
+      "years": "2023 - present",
+      "mainTech": ["Graduate"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Information Security",
+      "title": "University of South Florida",
+      "years": "05.2020 - 2022",
+      "mainTech": ["Undergraduate"],
       "technologies": [
         "REST API",
         "RxJS",
@@ -98,10 +105,17 @@
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
+      "company": "Assistant Project Manager",
+      "title": "Complete Property Development",
+      "years": "2020 - 2022",
+      "mainTech": ["Employment"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    },
+    {
+      "company": "Integrative Animal Biology",
+      "title": "University of South Florida",
+      "years": "05.2015 - 03.2020",
+      "mainTech": ["Undergraduate"],
       "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
     }
   ]
