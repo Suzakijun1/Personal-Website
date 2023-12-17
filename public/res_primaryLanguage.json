@@ -94,15 +94,10 @@
       "years": "05.2020 - 2022",
       "mainTech": ["Undergraduate"],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Cum Laude - 3.57 GPA",
+        "Network Security",
+        "Data Protection",
+        "Ethical Hacking"
       ],
       "icon": "fas fa-user-graduate"
     },
@@ -111,7 +106,10 @@
       "title": "Complete Property Development",
       "years": "2020 - 2022",
       "mainTech": ["Employment"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "technologies": [
+        "Directing and Organizing the completion of projects",
+        "Evaluate Project Performance"
+      ],
       "icon": "fas fa-trophy"
     },
     {
@@ -119,7 +117,12 @@
       "title": "University of South Florida",
       "years": "05.2015 - 03.2020",
       "mainTech": ["Undergraduate"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "technologies": [
+        "Comprehensive Understanding of Animal Biology",
+        "Laboratory Techniques",
+        "Statistical Data Analysis",
+        "Field Research Methodology"
+      ],
       "icon": "fas fa-user-graduate"
     }
   ]

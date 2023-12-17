@@ -3,20 +3,20 @@
     "name": "Dylan Yong",
     "titles": [
       "Front-end Developer",
-      "Senior Data Engineer",
+      "Back-end Developer",
       "Dev Team lead",
       "Mobile App Developer"
     ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Suzakijun1",
         "class": "fab fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "url": "https://www.linkedin.com/in/dylan-yong-96830524a/",
+        "class": "fab fa-linkedin-in"
       }
     ],
     "image": "myProfile.jpg"
