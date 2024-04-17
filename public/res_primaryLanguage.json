@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Dylan Yong. Orlando-based developer with 9+ years of diverse college education and two bachelor's degrees. Enrolled in dual Master of Science programs. Proficient in Java and JavaScript, excelling in both front- end and back-end development. Known for enhancing software performance, collaborative teamwork, and a commitment to continuous learning. 💜",
+    "description_header": "Dylan Yong: Passionate Developer and Lifelong Learner",
+    "description": "👋 Orlando-based developer with 9+ years of diverse college education and two bachelor's degrees. Enrolled in dual Master of Science programs. Proficient in Java and JavaScript, excelling in both front- end and back-end development. Known for enhancing software performance, collaborative teamwork, and a commitment to continuous learning. 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -81,15 +81,35 @@
   ],
   "experience": [
     {
-      "company": "Network Security",
-      "title": "Florida International University",
+      "company": "Masters of Science: Software Engineering",
+      "title": "Pennsylvania State University",
       "years": "2023 - present",
       "mainTech": ["Graduate"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"],
+      "technologies": [
+        "4.0 GPA",
+        "Software Construction",
+        "Requirements Engineering"
+      ],
       "icon": "fas fa-user-graduate"
     },
     {
-      "company": "Information Security",
+      "company": "Masters of Science: Computer Science",
+      "title": "Syracuse University",
+      "years": "2023 - present",
+      "mainTech": ["Graduate"],
+      "technologies": [
+        "3.9 GPA",
+        "Intro to Cryptography",
+        "Mobile Application Programming",
+        "Computer Architecture",
+        "Principles of Operating Systems",
+        "Design & Analysis of Algorithms",
+        "Data&Knowledge Mining for Big Data"
+      ],
+      "icon": "fas fa-user-graduate"
+    },
+    {
+      "company": "Bachelors of Science: Information Security",
       "title": "University of South Florida",
       "years": "05.2020 - 2022",
       "mainTech": ["Undergraduate"],
