@@ -7,6 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Resume from "./components/Resume";
 
 class App extends Component {
   constructor(props) {
@@ -45,7 +46,7 @@ class App extends Component {
     this.loadSharedData();
     this.applyPickedLanguage(
       window.$primaryLanguage,
-      window.$secondaryLanguageIconId
+      window.$secondaryLanguageIconId,
     );
   }
 
@@ -87,7 +88,7 @@ class App extends Component {
             onClick={() =>
               this.applyPickedLanguage(
                 window.$primaryLanguage,
-                window.$secondaryLanguageIconId
+                window.$secondaryLanguageIconId,
               )
             }
             style={{ display: "inline" }}
@@ -103,7 +104,7 @@ class App extends Component {
             onClick={() =>
               this.applyPickedLanguage(
                 window.$secondaryLanguage,
-                window.$primaryLanguageIconId
+                window.$primaryLanguageIconId,
               )
             }
             style={{ display: "inline" }}
@@ -132,6 +133,7 @@ class App extends Component {
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+        <Resume />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
       </div>
     );

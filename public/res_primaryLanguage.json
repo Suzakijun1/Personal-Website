@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Dylan Yong: Passionate Developer and Lifelong Learner",
-    "description": "👋 Orlando-based developer with 9+ years of diverse college education and two bachelor's degrees. Enrolled in dual Master of Science programs. Proficient in Java and JavaScript, excelling in both front- end and back-end development. Known for enhancing software performance, collaborative teamwork, and a commitment to continuous learning. 💜",
+    "description": "👋 Orlando-based software developer with Master of Science degrees in Software Engineering from Penn State and Computer Science from Syracuse University, as well as two bachelor’s degrees from the University of South Florida. Proficient in Java and JavaScript, with experience in both front-end and back-end development. Known for building efficient software solutions, collaborating effectively with teams, and continuously expanding his technical expertise. 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -109,6 +109,18 @@
       "icon": "fas fa-user-graduate"
     },
     {
+      "company": "Assistant Project Manager",
+      "title": "Complete Property Development",
+      "years": "2023 - Present",
+      "mainTech": ["Employment"],
+      "technologies": [
+        "Analyzed the company's weekly reporting deficiency and identified areas of inaccurate reporting",
+        "Designed and developed an application using pandas, openpyxl, and tk, that automates the data aggregation and generation of excel reports",
+        "Completely eliminated previous causes of inaccurate data reporting by unifying data sources"
+      ],
+      "icon": "fas fa-trophy"
+    },
+    {
       "company": "Bachelors of Science: Information Security",
       "title": "University of South Florida",
       "years": "05.2020 - 2022",
@@ -121,18 +133,7 @@
       ],
       "icon": "fas fa-user-graduate"
     },
-    {
-      "company": "Assistant Project Manager",
-      "title": "Complete Property Development",
-      "years": "2023 - Present",
-      "mainTech": ["Employment"],
-      "technologies": [
-        "Analyzed the company's weekly reporting deficiency and identified areas of inaccurate reporting",
-        "Designed and developed an application using pandas, openpyxl, and tk, that automates the data aggregation and generation of excel reports",
-        "Completely eliminated previous causes of inaccurate data reporting by unifying data sources"
-      ],
-      "icon": "fas fa-trophy"
-    },
+
     {
       "company": "Integrative Animal Biology",
       "title": "University of South Florida",

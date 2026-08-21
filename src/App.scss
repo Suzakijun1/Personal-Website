@@ -432,3 +432,103 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.resume-section {
+	background: #fff;
+	width: 100%;
+	padding: 0 20px 60px;
+	overflow: hidden;
+}
+
+.resume-section-title {
+	margin: 0;
+	color: black;
+}
+
+.resume-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.resume-viewer {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.resume-image {
+	display: block;
+	width: 100%;
+	height: auto;
+	background: white;
+	border: 2px solid #d7caaa;
+	box-shadow: 0 5px 18px rgba(0, 0, 0, 0.25);
+}
+
+.resume-download {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 30px;
+}
+
+.resume-download-button,
+.resume-download-button:visited {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	padding: 12px 22px;
+	background-color: #ae944f;
+	border-radius: 5px;
+	color: white;
+	font: 14px 'opensans-bold', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-decoration: none;
+	transition: all 0.2s linear;
+}
+
+.resume-download-button:hover,
+.resume-download-button:focus {
+	background-color: #8f793e;
+	color: white;
+	text-decoration: none;
+	transform: translateY(-2px);
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+@media only screen and (max-width: 768px) {
+	.resume-section {
+		padding-right: 15px;
+		padding-bottom: 40px;
+		padding-left: 15px;
+	}
+
+	.resume-container {
+		max-width: 475px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.resume-section {
+		padding-right: 10px;
+		padding-bottom: 30px;
+		padding-left: 10px;
+	}
+
+	.resume-container {
+		width: 94%;
+	}
+
+	.resume-image {
+		border-width: 1px;
+	}
+
+	.resume-download-button {
+		width: 100%;
+	}
+}
