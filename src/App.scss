@@ -248,6 +248,12 @@ header h1 {
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+	white-space: normal !important;
+	overflow-wrap: anywhere;
+	word-break: normal;
+	max-width: 100%;
+	line-height: 1.5;
 }
 
 .vertical-timeline-element-date {
