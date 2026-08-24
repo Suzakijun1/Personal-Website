@@ -11,6 +11,30 @@
   },
   "projects": [
     {
+      "title": "Automotive CAN Bus Intrusion Detection",
+      "startDate": "2025",
+      "description": "This research developed a real-time cybersecurity framework for detecting flooding, replay, and fuzzing attacks on automotive Controller Area Network (CAN) buses. By combining survival analysis, statistical traffic features, and Isolation Forest anomaly detection, the system achieved over 95% detection accuracy across multiple vehicle models",
+      "images": [
+        "images/portfolio/canbus/CANBUS-pic2.png",
+        "images/portfolio/canbus/CANBUS-pic1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
       "title": "CROW",
       "startDate": "2020",
       "description": "Crow is a desktop application that provides users with a customizable dashboard for storing macros and functions.",
@@ -51,30 +75,6 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
         }
       ]
     }
