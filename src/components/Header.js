@@ -39,22 +39,34 @@ class Header extends Component {
           <Typical className="title-styles" steps={this.titles} loop={50} />
         );
       },
-      (props, prevProp) => true
+      (props, prevProp) => true,
     );
 
     return (
       <>
-        <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
-          <Navbar.Brand href="#home">Brand</Navbar.Brand>
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-          <Navbar.Collapse
-            id="responsive-navbar-nav"
-            className="justify-content-end"
-          >
-            <Nav className="nav-align-items-end">
+        <Navbar
+          collapseOnSelect
+          expand="lg"
+          bg="light"
+          variant="light"
+          className="portfolio-navbar"
+        >
+          <Navbar.Brand href="#home" className="portfolio-navbar-brand">
+            Dylan Yong
+          </Navbar.Brand>
+
+          <Navbar.Toggle
+            aria-controls="responsive-navbar-nav"
+            className="portfolio-navbar-toggle"
+          />
+
+          <Navbar.Collapse id="responsive-navbar-nav">
+            <Nav className="portfolio-nav ml-auto">
               <Nav.Link href="#home">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#portfolio">Portfolio</Nav.Link>
+              <Nav.Link href="#experience">Experience</Nav.Link>
+              <Nav.Link href="#resume-document">Resume</Nav.Link>
               <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
