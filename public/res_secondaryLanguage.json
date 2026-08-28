@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "description_header": "Dylan Yong: Desarrollador apasionado y estudiante de por vida",
+    "description": "👋 Desarrollador de software radicado en Orlando, con maestrías en Ingeniería de Software de Penn State y Ciencias de la Computación de la Universidad de Syracuse, además de dos licenciaturas de la Universidad del Sur de Florida. Competente en Java y JavaScript, con experiencia tanto en desarrollo front-end como back-end. Reconocido por crear soluciones de software eficientes, colaborar eficazmente con equipos y ampliar continuamente sus conocimientos técnicos. 💜",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Detección de intrusiones en buses CAN automotrices",
+      "startDate": "2025",
+      "description": "Esta investigación desarrolló un sistema de ciberseguridad en tiempo real para detectar ataques de inundación, repetición y fuzzing en buses de red de área de controlador (CAN) automotrices. Mediante la combinación de análisis de supervivencia, características estadísticas del tráfico y detección de anomalías con Isolation Forest, el sistema logró una precisión de detección superior al 95 % en varios modelos de vehículos.",
+      "images": [
+        "images/portfolio/canbus/CANBUS-pic2.png",
+        "images/portfolio/canbus/CANBUS-pic1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "CROW",
+      "startDate": "2020",
+      "description": "Crow es una aplicación de escritorio que proporciona a los usuarios un panel personalizable para almacenar macros y funciones.",
+      "images": [
+        "images/portfolio/crow/Crow_picture.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/Suzakijun1/Desktop-Dashboard",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Superhero Showdown",
+      "startDate": "2018",
+      "description": "Superhero Showdown es un juego web interactivo con dos emocionantes modos, «Higher Lower» y «Draft Game», que ofrece una experiencia de superhéroes cautivadora con batallas estratégicas y una interfaz adaptable.",
+      "images": [
+        "images/portfolio/superhero-showdown/hero-showdown.png",
+        "images/portfolio/superhero-showdown/super-hero-main.PNG"
+      ],
+      "url": "https://hero-showdown.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Maestría en Ciencias: Ingeniería de Software",
+      "title": "Universidad Estatal de Pensilvania",
+      "years": "2023 - presente",
+      "mainTech": ["Posgrado"],
+      "technologies": [
+        "Promedio académico: 3.84",
+        "Construcción de software",
+        "Ingeniería de requisitos"
+      ],
+      "icon": "fas fa-user-graduate"
+    },
+    {
+      "company": "Maestría en Ciencias: Ciencias de la Computación",
+      "title": "Universidad de Syracuse",
+      "years": "2023 - presente",
+      "mainTech": ["Posgrado"],
+      "technologies": [
+        "Promedio académico: 3.97",
+        "Introducción a la criptografía",
+        "Programación de aplicaciones móviles",
+        "Arquitectura de computadoras",
+        "Principios de sistemas operativos",
+        "Diseño y análisis de algoritmos",
+        "Minería de datos y conocimientos para Big Data"
+      ],
+      "icon": "fas fa-user-graduate"
+    },
+    {
+      "company": "Asistente de gestión de proyectos",
+      "title": "Complete Property Development",
+      "years": "2023 - presente",
+      "mainTech": ["Empleo"],
+      "technologies": [
+        "Analicé las deficiencias en los informes semanales de la empresa e identifiqué las áreas que generaban información inexacta",
+        "Diseñé y desarrollé una aplicación con pandas, openpyxl y Tk que automatiza la consolidación de datos y la generación de informes de Excel",
+        "Eliminé por completo las causas anteriores de información inexacta mediante la unificación de las fuentes de datos"
+      ],
+      "icon": "fas fa-trophy"
+    },
+    {
+      "company": "Licenciatura en Ciencias: Seguridad de la Información",
+      "title": "Universidad del Sur de Florida",
+      "years": "05.2020 - 2022",
+      "mainTech": ["Pregrado"],
+      "technologies": [
+        "Cum Laude - Promedio académico: 3.57",
+        "Seguridad de redes",
+        "Protección de datos",
+        "Hacking ético"
+      ],
+      "icon": "fas fa-user-graduate"
+    },
+    {
+      "company": "Biología Animal Integrativa",
+      "title": "Universidad del Sur de Florida",
+      "years": "05.2015 - 03.2020",
+      "mainTech": ["Pregrado"],
+      "technologies": [
+        "Comprensión integral de la biología animal",
+        "Técnicas de laboratorio",
+        "Análisis estadístico de datos",
+        "Metodología de investigación de campo"
+      ],
+      "icon": "fas fa-user-graduate"
+    }
+  ]
+}
