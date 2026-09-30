@@ -67,7 +67,6 @@ class Header extends Component {
               <Nav.Link href="#portfolio">Portfolio</Nav.Link>
               <Nav.Link href="#experience">Experience</Nav.Link>
               <Nav.Link href="#resume-document">Resume</Nav.Link>
-              <Nav.Link href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
