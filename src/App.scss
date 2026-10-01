@@ -245,7 +245,7 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
-	color: black;
+	color: black !important;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -566,9 +566,9 @@ footer a:focus {
 	color: #ae944f !important;
 }
 
-.portfolio-navbar-toggle {
-	margin-left: auto;
-}
+// .portfolio-navbar-toggle {
+// 	margin-left: auto;
+// }
 
 /* Collapsed mobile navigation */
 @media only screen and (max-width: 991px) {
@@ -588,16 +588,19 @@ footer a:focus {
 
 	.portfolio-nav {
 		width: 100%;
-		align-items: flex-start;
+		align-items: center;
 		gap: 2px;
 	}
 
 	.portfolio-nav .nav-link {
-		display: block;
+		display: flex;
 		width: 100%;
 		padding: 12px 8px !important;
 		font-size: 18px !important;
-		text-align: left;
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		display: flex;
 	}
 }
 
